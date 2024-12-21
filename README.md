@@ -41,7 +41,7 @@ pip install pandas numpy matplotlib scikit-learn
 ## Hos To Run
 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/Elan34W/ImageClassficationUsingSVM.git
 ```
 2. Download the Dataset
 3. Install the Requirements
